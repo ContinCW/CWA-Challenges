@@ -1,1 +1,1 @@
-# CWA-Challenges
+# Splunk Docker
