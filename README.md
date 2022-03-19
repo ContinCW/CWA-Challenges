@@ -2,7 +2,7 @@
 
 ## :hash: Bash Script: Deploying a Splunk Server from a Docker Instance on Ubuntu Server :two::zero:.:zero::four:
 
-First, clone this repository that contains the splunk docker script, to do that run the following command:
+First, clone this repository in your local machine that contains the splunk docker script, to do that run the following command:
 
 ```
 git clone https://github.com/ContinCW/CWA-Challenges.git
