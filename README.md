@@ -5,3 +5,11 @@
 ```
 git clone https://github.com/ContinCW/CWA-Challenges.git
 ```
+
+```
+cd CWA-Challenges
+```
+
+```
+bash splunk
+```
